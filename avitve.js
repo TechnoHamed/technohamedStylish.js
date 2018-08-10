@@ -1,6 +1,6 @@
 $(document).ready(function()
 {
-   if($("#blogID").attr("blogID")!="4675755143821314899" )
+   if($("#blogID").attr("blogID")!="7587136800060548585" )
  {
    window.location.href="https://technohamed.com/";
  }
